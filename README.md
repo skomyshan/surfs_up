@@ -5,11 +5,11 @@
 
 # Results
 
-*· Statistics Dataframe: June Temps*
+*· Statistics DataFrame: June Temps*
 
 <img width="600" alt="june_temp" src="https://user-images.githubusercontent.com/96352751/155229456-8d2feeb2-0603-4bff-8b8c-cc1c3169518b.png">
 
-*· Statistics Dataframe: December Temps*
+*· Statistics DataFrame: December Temps*
 
 <img width="600" alt="dec_temp" src="https://user-images.githubusercontent.com/96352751/155230496-3ff2c839-6bae-4d79-9bc2-ff943e16001e.png">
 
